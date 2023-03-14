@@ -1,0 +1,17 @@
+.cartBtn {
+    background: #7d7b79;
+    color: #fff;
+    font-size: 18px;
+    padding: 4px 6px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.cartBtn button {
+    background: red;
+    border-radius: 50%;
+    color: #fff;
+    border: 0;
+    cursor: pointer;
+}
